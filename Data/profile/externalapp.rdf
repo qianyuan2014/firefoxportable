@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NS1="http://forums.mozillazine.org/rdf/externalapp#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Seq RDF:about="urn:externalapp:buttons">
+    <RDF:li RDF:resource="urn:externalapp:1408061084045"/>
+    <RDF:li RDF:resource="urn:externalapp:1408061091222"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:externalapp:1408061084045"
+                   NS1:label="fgr.exe"
+                   NS1:path="..\..\..\fgr.exe"
+                   NS1:tooltiptext="fgr.exe"
+                   NS1:ipath="..\..\..\fgr.exe"
+                   NS1:isize="?size=16"
+                   NS1:image="moz-icon:file:///..\..\..\fgr.exe?size=16"
+                   NS1:key=""
+                   NS1:arguments="" />
+  <RDF:Description RDF:about="urn:externalapp:1408061091222"
+                   NS1:label="u.exe"
+                   NS1:path="..\..\..\u.exe"
+                   NS1:tooltiptext="u.exe"
+                   NS1:ipath="..\..\..\u.exe"
+                   NS1:isize="?size=16"
+                   NS1:image="moz-icon:file:///..\..\..\u.exe?size=16"
+                   NS1:key=""
+                   NS1:arguments="" />
+</RDF:RDF>
